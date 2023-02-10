@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-students alx shell basics 
+My first readme
